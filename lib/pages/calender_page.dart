@@ -236,7 +236,7 @@ class _CalendarPageState extends State<CalendarPage> {
                     onPressed: () => Navigator.pop(context), 
                   child: Text('모임 일정', 
                     style: TextStyle(
-                      color: Colors.black,
+                      color: Colors.black, 
                     ),
                   ),
                 ),

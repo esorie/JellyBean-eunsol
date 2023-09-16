@@ -112,12 +112,12 @@ class _CreateGroupState extends State<CreateGroup> {
           logo(),
           
           
-          Column(
+          Column( 
             children: [
           Row(
             children: [
               const SizedBox(
-                width: 30,
+                width: 30, 
               ),
               Text(
                 '모임명',

@@ -120,7 +120,7 @@ class _DepositPageState extends State<DepositPage> {
                   ),
                   width: 150,
                 ),
-              ],
+              ], 
             ),
             const SizedBox(height: 30,),
             Row(
@@ -138,7 +138,7 @@ class _DepositPageState extends State<DepositPage> {
                   color: Colors.white,
                   onPressed: () {
                     Navigator.of(context).pop();
-                  },
+                  }, 
                   child: Text(
                     '취소',
                     style: TextStyle(color: Colors.black),

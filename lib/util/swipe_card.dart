@@ -16,7 +16,7 @@ class myPointCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      //padding: const EdgeInsets.all(20.0), //8.0
+      //padding: const EdgeInsets.all(20.0), //8.0 
       padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 15),
       child: Container(
         //padding: EdgeInsets.all(8),
