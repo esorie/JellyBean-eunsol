@@ -121,7 +121,7 @@ class _DepositPageState extends State<DepositPage> {
                   width: 150,
                 ),
               ], 
-            ),
+            ), 
             const SizedBox(height: 30,),
             Row(
               children: [

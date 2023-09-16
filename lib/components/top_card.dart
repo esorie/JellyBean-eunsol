@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // 정산시 남은 회비 표시하는 카드
 
-class TopNeuCard extends StatelessWidget {
+class TopNeuCard extends StatelessWidget { 
   const TopNeuCard({
     super.key,
     required this.balance,

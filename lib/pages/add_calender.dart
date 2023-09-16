@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 class InquiryPage extends StatefulWidget {
-  const InquiryPage({super.key});
+  const InquiryPage({super.key}); 
 
   @override
   State<InquiryPage> createState() => _InquiryPageState();

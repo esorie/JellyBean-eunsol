@@ -112,7 +112,7 @@ class _CreateGroupState extends State<CreateGroup> {
           logo(),
           
           
-          Column( 
+          Column(
             children: [
           Row(
             children: [
